@@ -1,6 +1,6 @@
 # Hey, I’m Resham 🌙
 
-![Anime Coding Vibes](https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif)
+![Anime Coding Vibes](https://i.pinimg.com/originals/4b/e1/6c/4be16c6b3f93bc6ce988e812c93904ae.gif)
 
 I enjoy solving problems and crafting beautiful, user-friendly interfaces that feel effortless.  
 Right now, I’m focused on building projects, refining my skills, and landing my next opportunity in tech.  
