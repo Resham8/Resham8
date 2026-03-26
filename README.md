@@ -22,5 +22,5 @@ Outside of coding, I mostly spend my time exploring new ideas, learning, and occ
 
 ---
 
-Check out the [Portfolio]([https://docs.github.com](https://portfolio-r-gold.vercel.app/)).
+Check out the [Portfolio](https://portfolio-r-gold.vercel.app/).
 
