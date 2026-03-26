@@ -22,7 +22,5 @@ Outside of coding, I mostly spend my time exploring new ideas, learning, and occ
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Resham8&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Resham8&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Resham8&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+Check out the [Portfolio]([https://docs.github.com](https://portfolio-r-gold.vercel.app/)).
+
